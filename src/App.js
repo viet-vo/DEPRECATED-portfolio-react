@@ -89,10 +89,14 @@ class App extends Component {
             </Col>
             </Row>
             <p>
-              Here's what I feel about what I do 
+              A bit of my work:
             </p>
           </Col>
         </Row>
+        
+        </header>
+        <header className="App-header">
+       
         <Links></Links>
         </header>
         <Box className="box" pose={isVisble ? 'visible' : 'hidden'}>
